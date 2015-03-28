@@ -98,6 +98,7 @@ width: 85%;
 margin: 10px auto;
 border-top: 1px solid #AAAAAA;
 text-align: center;
+text-decoration: none;
 }
 #footer li {
 display: inline-block;
